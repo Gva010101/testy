@@ -15,7 +15,7 @@ struct ContentView: View {
                 .foregroundStyle(.tint)
             Text("10")
 
-
+            Text("Vetka second 1 ")
 
 
         }

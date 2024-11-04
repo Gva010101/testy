@@ -11,6 +11,7 @@
 		8119FA032CD8DB7B00A2481B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8119FA022CD8DB7B00A2481B /* ContentView.swift */; };
 		8119FA052CD8DB7C00A2481B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8119FA042CD8DB7C00A2481B /* Assets.xcassets */; };
 		8119FA082CD8DB7C00A2481B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8119FA072CD8DB7C00A2481B /* Preview Assets.xcassets */; };
+		8119FA0F2CD8E37B00A2481B /* SecondFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8119FA0E2CD8E37B00A2481B /* SecondFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		8119FA022CD8DB7B00A2481B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8119FA042CD8DB7C00A2481B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8119FA072CD8DB7C00A2481B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8119FA0E2CD8E37B00A2481B /* SecondFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				8119FA002CD8DB7B00A2481B /* testyApp.swift */,
 				8119FA022CD8DB7B00A2481B /* ContentView.swift */,
+				8119FA0E2CD8E37B00A2481B /* SecondFile.swift */,
 				8119FA042CD8DB7C00A2481B /* Assets.xcassets */,
 				8119FA062CD8DB7C00A2481B /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8119FA0F2CD8E37B00A2481B /* SecondFile.swift in Sources */,
 				8119FA032CD8DB7B00A2481B /* ContentView.swift in Sources */,
 				8119FA012CD8DB7B00A2481B /* testyApp.swift in Sources */,
 			);
